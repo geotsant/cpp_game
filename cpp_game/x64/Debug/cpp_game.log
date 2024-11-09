@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  button.cpp
+C:\Users\geots\OneDrive\Documents\@Master\University\Courses\3rd_Semester\Computer_Programming_with_C++\project\game\cpp_game\cpp_game\button.cpp(32,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\geots\OneDrive\Documents\@Master\University\Courses\3rd_Semester\Computer_Programming_with_C++\project\game\cpp_game\cpp_game\button.cpp(33,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  event.cpp
+  game.cpp
+  game_screen.cpp
+  ground.cpp
+  help_screen.cpp
+  main.cpp
+  main_menu_screen.cpp
+  player.cpp
+  robot.cpp
+  screen.cpp
+  screen_manager.cpp
+  select_screen.cpp
+  Generating Code...
+  cpp_game.vcxproj -> C:\Users\geots\OneDrive\Documents\@Master\University\Courses\3rd_Semester\Computer_Programming_with_C++\project\game\cpp_game\bin\cpp_gamed.exe
